@@ -108,6 +108,7 @@
     <Compile Include="StructuredStorage\StorageBase.cs" />
     <Compile Include="StructuredStorage\StorageStreamBase.cs" />
     <Compile Include="WorkSharingMode.cs" />
+    <None Include="README.md" />
   </ItemGroup>
   <ItemGroup>
     <Content Include=".gitignore" />
